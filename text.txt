@@ -1,1 +1,13 @@
-This is a test file
+1. 远程仓库 -> 本地仓库
+
+Github:	Clone with HTTPS
+目标目录下GitBash: git clone https:****
+
+2. 本地仓库 -> 远程仓库
+
+GitBash:   git status
+	git add <file>
+	git commit -m "备注"
+	git push origin main
+	(git status查看是否成功)
+Github:	刷新页面
